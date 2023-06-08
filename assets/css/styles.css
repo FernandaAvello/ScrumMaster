@@ -1,0 +1,10 @@
+main {
+    padding: 5% 25%;
+}
+.heading {
+    background-color: #f7f7f7;
+    border: 1px solid lightgray;
+}
+ul {
+    list-style-type: none;
+}
